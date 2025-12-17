@@ -1,1 +1,1 @@
-# IITM_Hack
+# IITM_MOSIP_Hackathon
